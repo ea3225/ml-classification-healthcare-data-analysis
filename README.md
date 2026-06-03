@@ -1,5 +1,11 @@
 # Machine Learning Classification for Healthcare Data Analysis
 
+## Academic Context
+
+This project was completed as part of Columbia University's AI for Financial Engineering and Operations Research course.
+
+The assignment specification, environment setup, and starter code were provided by the course staff. The implementation, experiments, analysis, and completed solutions included in this repository are my own work.
+
 ## Overview
 
 This project applies supervised machine learning methods to a healthcare classification task using the Cardio Train dataset. The objective is to predict whether a patient is likely to have cardiovascular disease based on demographic, behavioral, and clinical health indicators.
